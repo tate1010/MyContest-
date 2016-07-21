@@ -37,7 +37,7 @@ else if(sum == in.size()){
        cout << "A";
    }
 else{
- cout <<"N";
+ cout <<"N"; 
 
 
 }
