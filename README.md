@@ -1,1 +1,2 @@
-disclaimer: not all solution are working or yield a perfect score. 
+solution might not work or yield a perfect score.  
+This are just how I approached them during the contests
